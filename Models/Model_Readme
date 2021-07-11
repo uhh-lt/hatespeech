@@ -1,5 +1,0 @@
-## Types of classifiers
-For performing the experiments 3 types of models: BERT, LSTM and Bag of words model. They are trained on fox and Twitter dataset and then by using transfer learning to evaluate on movies utterances.
-
-#BERT
-
