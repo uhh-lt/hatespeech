@@ -14,6 +14,9 @@ In this research, we investigate techniques to detect hate speech in movies. We 
 ```
 
 ## Sections
-[Data](https://github.com/uhh-lt/hatespeech/blob/main/Data/Dataset.md): This contains the different types of datasets used in the experiments and also describes their annotation process
+[Data](https://github.com/uhh-lt/hatespeech/blob/main/Data/README.md): This contains the different types of datasets used in the experiments and also describes their annotation process
 
-[Models](https://github.com/uhh-lt/hatespeech/blob/main/Models/Model_Readme.md): This folder contains the classification models used to classify the movies
+[Models](https://github.com/uhh-lt/hatespeech/blob/main/Models/README.md): This folder contains the classification models used to classify the movies
+
+
+[Annotations](https://github.com/uhh-lt/hatespeech/blob/main/Code For Annotations/README.md): This folder contains the annotation process and the pre-processing and cleaning of the datasets
