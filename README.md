@@ -6,10 +6,14 @@ In this research, we investigate techniques to detect hate speech in movies. We 
 
 ## Folder Description
 ```
-./Data                      --> contains the individual movie utterances files obtained after annotaion in MTurk. Also they are all combinded into a single file('all_movies.csv'). Apart from this the folder contains the social media hatespeech dataset(Fox News and Twitter).
+./Data                  --> contains social media hatespeech dataset(Fox News and Twitter), individual movie utterances files as well as combinded into a single file('all_movies.csv') obtained after annotaion in MTurk.
 
-./Models                    --> Contains the codes for all the classification models used
+./Models                --> Contains the codes for all the classification models used
 
-./Code For Annotations      --> Contains the codes for preprocessing the dataset, the raw subtitles and preparing them for annotations	
+./Code For Annotations  --> Contains the codes for preprocessing the dataset, the raw subtitles and preparing them for annotations	
 ```
 
+## Sections
+[Data](): This contains the different types of datasets used in the experiments and also describes their annotation process
+
+[Models](): This folder contains the classification models used to classify the movies
