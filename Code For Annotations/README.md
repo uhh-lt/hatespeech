@@ -8,3 +8,8 @@ The annotation of the movie subtitles were performed using Amazon Mechanical Tur
 Sound expressions,e.g [PEOPLE CHATTERING], [DOOR OPENING], (2) name header of the current speaker, e.g."DIANA: Hey, what’s up?" which refers to Diana is about to say something, HTML tags, non-alpha character subtitle, and non-ASCII characters.
 
 Finally the movie datasets in ./CSV$ folder is used for the annotation task. Before the main annotation task, we have conducted an annotation pilot study, where 40 subtitles texts were randomly chosen from the movie subtitle dataset. Each of them has included 10 hate speech, 10 offensive, and 20 normal sub-titles that are manually annotated by experts.Each worker was assessed for accuracy and the 13 workers who have completed the task with the highest annotation accuracy were chosen for the main study task of annotating all the 6 movies.
+The HTML template provided to the MTurk workers for annotation is as below
+x-special/nautilus-clipboard
+copy
+
+![html_template](https://user-images.githubusercontent.com/2795092/125208975-10d07200-e296-11eb-9d26-e57aef079e4e.jpeg)
