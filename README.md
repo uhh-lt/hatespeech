@@ -1,4 +1,4 @@
-# How Hateful are Movies? A study and prediction on Movie Subtitles :speaking_head:
+# How Hateful are Movies? A study and prediction on Movie Subtitles :speaking_head: 🎥
 Use of Three different Models(BERT, LSTM and Bag of Words) which are trained and tested on movie utterances and using transfer learning by training on social media hate dataset.
 
 ## Abstract
