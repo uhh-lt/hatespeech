@@ -1,0 +1,7 @@
+,precision,recall,f1-score,support,movie_train,movie_test
+0,0.9706103993971364,0.9662415603900976,0.968421052631579,1333.0,"BlacKkKlansman,AmerricanHistoryX,TheWolfofWallStreet,Django_Unchained,South_Park",Pulp_Fiction
+1,0.8302583025830258,0.8490566037735849,0.8395522388059701,265.0,"BlacKkKlansman,AmerricanHistoryX,TheWolfofWallStreet,Django_Unchained,South_Park",Pulp_Fiction
+2,0.8333333333333334,0.8333333333333334,0.8333333333333334,24.0,"BlacKkKlansman,AmerricanHistoryX,TheWolfofWallStreet,Django_Unchained,South_Park",Pulp_Fiction
+accuracy,0.9451294697903823,0.9451294697903823,0.9451294697903823,0.9451294697903823,"BlacKkKlansman,AmerricanHistoryX,TheWolfofWallStreet,Django_Unchained,South_Park",Pulp_Fiction
+macro avg,0.8780673451044986,0.8828771658323387,0.8804355415902941,1622.0,"BlacKkKlansman,AmerricanHistoryX,TheWolfofWallStreet,Django_Unchained,South_Park",Pulp_Fiction
+weighted avg,0.9456486514062173,0.9451294697903823,0.9453678214805653,1622.0,"BlacKkKlansman,AmerricanHistoryX,TheWolfofWallStreet,Django_Unchained,South_Park",Pulp_Fiction
