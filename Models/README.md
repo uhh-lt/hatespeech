@@ -5,7 +5,7 @@ The performance of these models are also compared with a state-of-the art BERT-b
 ### BERT
 For BERT models we have used *TFBertForSequenceClassification* algorithm provided by [HuggingFace](https://huggingface.co/transformers/) and it is pretrained on bert-base-uncased. The hyperparameters used are mebntioned below.
 
-* Learning rate: 3e-05
+* Learning rate: 3e-06
 * Loss Function: Sparse categorical cross-entropy 
 * Batch size: 32 
 * Optimizer Algorithm: Adam optimizer
