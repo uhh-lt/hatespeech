@@ -10,11 +10,11 @@ In this research, we investigate techniques to detect hate speech in movies. We 
 
 ./Models                --> Contains the codes for all the classification models used
 
-./Code For Annotations  --> Contains the codes for preprocessing the dataset, the raw subtitles and preparing them for annotations	
+./data_preprocess  --> Contains the codes for preprocessing the dataset, the raw subtitles and preparing them for annotations	
 ```
 
 ## Sections
-[Data](https://github.com/uhh-lt/hatespeech/blob/main/Data/README.md): This contains the different types of datasets used in the experiments and also describes their annotation process
+[Data](https://github.com/uhh-lt/hatespeech/blob/main/data/README.md): This contains the different types of datasets used in the experiments and also describes their annotation process
 
 [Models](https://github.com/uhh-lt/hatespeech/blob/main/Models/README.md): This folder contains the classification models used to classify the movies
 
