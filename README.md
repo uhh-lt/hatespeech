@@ -24,6 +24,7 @@ In this research, we investigate techniques to detect hate speech in movies. We 
 Download the 'All_movies.csv' dataset of all the annotated movies. All the models can be found in the ./Models folder. Among them the pretrained BERT(Bert-pretrained) obtained best results even when compared to the benchmark *HateXplain* model
 
 The BERT model with pretrained Twitter and after fine tuning with Movies dataset is uploaded in Huggingface https://huggingface.co/uhhlt/bert-based-uncased-hatespeech-movies
+
 The model can be used directly from Hugging face. Our work has been published in [KONVENS 2021](https://konvens2021.phil.hhu.de/) conference. Please cite our paper if used.
 ```
 @article{von2021hateful,
