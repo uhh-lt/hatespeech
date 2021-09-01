@@ -19,7 +19,7 @@ In this research, we investigate techniques to detect hate speech in movies. We 
 [Models](https://github.com/uhh-lt/hatespeech/blob/main/Models/README.md): This folder contains the classification models used to classify the movies
 
 
-[Annotations](https://github.com/uhh-lt/hatespeech/blob/main/Code%20For%20Annotations/README.md): This folder contains the annotation process and the pre-processing and cleaning of the datasets.
+[data_preprocess](https://github.com/uhh-lt/hatespeech/blob/main/Code%20For%20Annotations/README.md): This folder contains the annotation process and the pre-processing and cleaning of the datasets.
 
 Download the 'All_movies.csv' dataset of all the annotated movies. All the models can be found in the ./Models folder. Among them the pretrained BERT(Bert-pretrained) obtained best results even when compared to the benchmark *HateXplain* model
 
