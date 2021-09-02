@@ -1,3 +1,6 @@
+### :tada: :tada:  The BERT model with pretrained Twitter and after fine tuning with Movies dataset is uploaded in Huggingface https://huggingface.co/uhhlt/bert-based-uncased-hatespeech-movies :tada: :tada: 
+
+
 # How Hateful are Movies? A study and prediction on Movie Subtitles :speaking_head: 🎥
 Use of Three different Models(BERT, LSTM and Bag of Words) which are trained and tested on movie utterances and using transfer learning by training on social media hate dataset.
 
