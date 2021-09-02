@@ -1,4 +1,4 @@
-### :tada: :tada:  The BERT model with pretrained Twitter and after fine tuning with Movies dataset is uploaded in Huggingface [Movie Hate Speech Detection] (https://huggingface.co/uhhlt/bert-based-uncased-hatespeech-movies) :tada: :tada: 
+### :tada: :tada:  The BERT model with pretrained Twitter and finetuned with Movies dataset is uploaded in Huggingface [Movie Hate Speech Detection] (https://huggingface.co/uhhlt/bert-based-uncased-hatespeech-movies) :tada: :tada: 
 
 
 # How Hateful are Movies? A study and prediction on Movie Subtitles :speaking_head: 🎥
